@@ -2,6 +2,8 @@
 
 This repository contains a list of known Android Remote Access Trojans (RATs) (both free and paid) (and [Dataset](https://github.com/wishihab/Android-RAT-Dataset/)) along with their key features and required permissions. This information is intended solely for documentation and research purposes.
 
+**Contribution:** If you find any missing or incorrect information, please feel free to [open an issue](https://github.com/wishihab/Android-RATList/issues) or [submit a pull request](https://github.com/wishihab/Android-RATList/pulls). Your contributions are welcome!
+
 If you are looking for port forwarding without buying a VPN or changing your router settings, you can use [Ngrok](https://ngrok.com/)
 
 # Vx-Underground
@@ -43,7 +45,6 @@ DO NOT download or install these projects unless you fully understand the risks.
   - Camera, Mircophone,
   - Storage, Location
   - Message, Call, Call logs, Contact
-
 
 - TheFatRAT https://github.com/Screetsec/TheFatRat
   - execute command
@@ -113,7 +114,6 @@ DO NOT download or install these projects unless you fully understand the risks.
   - Multiple commands for multiple bots
   - http RAT ( not required port forwarding)
   
-
 - KevDroid
   - Installed applications
   - Phone number
@@ -349,6 +349,7 @@ DO NOT download or install these projects unless you fully understand the risks.
   - Camera, Audio, Phone
   - Ransomware ? ([Syntax](https://github.com/swagkarna/Rafel-Rat/blob/6398b6ccb48b5039c2ddfc7441ce2adbcc550054/BlackMart/app/src/main/java/com/velociraptor/raptor/InternalService.java#L302))
   - Browserhistory (prefer to syntax)
+  - Persistence mechanisms
 
 - StrongPity
   - GPS, Storage
